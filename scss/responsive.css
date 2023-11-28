@@ -197,11 +197,9 @@
   }
 }
 @media (max-width: 1100px) {
-  header {
-    padding: 0px 20px;
-  }
   header .nav {
     justify-content: space-between;
+    padding: 0px 20px;
   }
   header .nav .nav-right ul li {
     display: none;

@@ -9,6 +9,10 @@
 header{
     background-color: #daac00;
     color: white;
+    position: fixed;
+    width: 100%;
+    box-shadow: 0px 0px 10px white;
+    z-index: 111;
     .nav{
         width: 100%;
         max-width: 1160px;
