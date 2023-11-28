@@ -1,4 +1,4 @@
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   footer {
     text-align: center;
     padding: 70px 10px;
@@ -35,7 +35,7 @@
     margin-bottom: 10px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .nurse {
     padding: 70px 10px;
   }
@@ -63,7 +63,7 @@
     font-size: 15px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .vaccination {
     padding: 60px 10px;
     color: white;
@@ -71,6 +71,7 @@
   }
   .vaccination .content {
     justify-content: center;
+    gap: 30px;
   }
   .vaccination .content img {
     margin-bottom: 30px;
@@ -86,7 +87,7 @@
     margin-bottom: 20px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .title {
     padding: 50px 10px;
   }
@@ -125,7 +126,7 @@
     font-size: 25px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .dog {
     padding: 60px 10px;
   }
@@ -163,7 +164,7 @@
     margin-bottom: 25px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   .background {
     padding: 40px 10px;
   }
@@ -179,6 +180,7 @@
   }
   .background .back .back-left span {
     justify-content: center;
+    margin-bottom: 30px;
   }
   .background .back .back-left span a {
     height: 40px;
@@ -195,7 +197,7 @@
     object-fit: cover;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   header .nav {
     justify-content: center;
   }

@@ -1,5 +1,5 @@
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     footer{
         text-align: center;
         padding: 70px 10px;
@@ -43,7 +43,7 @@
     }
 }
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     .nurse{
         padding: 70px 10px;
         .nurse-title{
@@ -76,13 +76,14 @@
     }
 }
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     .vaccination{
         padding: 60px 10px;
         color: white;
         text-align: center;
         .content{
             justify-content: center;
+            gap:30px;
             img{
                 margin-bottom: 30px;
                 width: 25%;
@@ -100,7 +101,7 @@
     }
 }
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     .title{
         padding: 50px 10px;
         .doctor{
@@ -143,7 +144,7 @@
     
 }
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     .dog{
         padding: 60px 10px;
         >div{
@@ -183,7 +184,7 @@
 }
 
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     .background{
         padding: 40px 10px;
         .back{
@@ -198,6 +199,7 @@
                 }
                 span{
                     justify-content: center;
+                    margin-bottom: 30px;
                     a{
                         height: 40px;
                         width: 120px;
@@ -218,7 +220,7 @@
     }
 }
 
-@media ( max-width : 767px){
+@media ( max-width : 991px){
     header{
         .nav{
             justify-content: center;
