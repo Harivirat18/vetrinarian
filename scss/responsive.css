@@ -1,4 +1,4 @@
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   footer {
     text-align: center;
     padding: 70px 10px;
@@ -35,7 +35,7 @@
     margin-bottom: 10px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   .nurse {
     padding: 70px 10px;
   }
@@ -63,7 +63,7 @@
     font-size: 15px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   .vaccination {
     padding: 60px 10px;
     color: white;
@@ -87,7 +87,7 @@
     margin-bottom: 20px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   .title {
     padding: 50px 10px;
   }
@@ -126,7 +126,7 @@
     font-size: 25px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   .dog {
     padding: 60px 10px;
   }
@@ -164,7 +164,7 @@
     margin-bottom: 25px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   .background {
     padding: 40px 10px;
   }
@@ -197,7 +197,7 @@
     object-fit: cover;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   header .nav {
     justify-content: center;
   }
