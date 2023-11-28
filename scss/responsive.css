@@ -1,0 +1,204 @@
+@media (max-width: 480px) {
+  footer {
+    text-align: center;
+    padding: 70px 10px;
+  }
+  footer .foot .about {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  footer .foot .about ul li {
+    font-size: 16px;
+  }
+  footer .foot .last {
+    width: 100%;
+    text-align: center;
+  }
+  footer .foot .last .social {
+    justify-content: center;
+  }
+  footer .foot .last .tel input {
+    height: 40px;
+    width: 100%;
+  }
+  footer .foot .last .tel i {
+    height: 40px;
+    width: 80px;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  footer .foot .last p {
+    font-size: 16px;
+  }
+  footer .foot .last h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+}
+@media (max-width: 480px) {
+  .nurse {
+    padding: 70px 10px;
+  }
+  .nurse .nurse-title h2 {
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+  .nurse .nurse-title p {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  .nurse .nurse-title > div {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .nurse .nurse-title > div img {
+    margin-bottom: 40px;
+    width: 100%;
+  }
+  .nurse .nurse-title .read em {
+    font-size: 18px;
+  }
+  .nurse .nurse-title .read p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 480px) {
+  .vaccination {
+    padding: 60px 10px;
+    color: white;
+    text-align: center;
+  }
+  .vaccination .content {
+    justify-content: center;
+  }
+  .vaccination .content img {
+    margin-bottom: 30px;
+    width: 25%;
+  }
+  .vaccination .content span {
+    display: block;
+    font-size: 20px;
+    font-weight: lighter;
+  }
+  .vaccination .content h4 {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+}
+@media (max-width: 480px) {
+  .title {
+    padding: 50px 10px;
+  }
+  .title .doctor h2 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+  .title .doctor p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .title .doctor > div {
+    flex-wrap: wrap;
+    padding: 0px;
+  }
+  .title .doctor > div h3 {
+    font-size: 20px;
+    padding-bottom: 15px;
+  }
+  .title .doctor > div p {
+    font-size: 16px;
+  }
+  .title .doctor > div img {
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  .title .doctor > div a {
+    height: 30px;
+    line-height: 30px;
+    width: 100px;
+    margin-top: 10px;
+  }
+  .title .doctor > div span {
+    font-size: 25px;
+  }
+}
+@media (max-width: 480px) {
+  .dog {
+    padding: 60px 10px;
+  }
+  .dog > div {
+    justify-content: center;
+  }
+  .dog > div .content {
+    width: 100%;
+    text-align: center !important;
+  }
+  .dog > div .content h2 {
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+  .dog > div .content p {
+    margin-bottom: 30px;
+    font-size: 16px;
+  }
+  .dog > div .content span {
+    justify-content: center !important;
+    margin-bottom: 25px;
+  }
+  .dog > div .content span a {
+    height: 35px;
+    width: 150px;
+    line-height: 35px;
+  }
+  .dog > div .dog-img {
+    width: 100%;
+  }
+  .dog > div .dog-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    margin-bottom: 25px;
+  }
+}
+@media (max-width: 480px) {
+  .background {
+    padding: 40px 10px;
+  }
+  .background .back .back-left {
+    width: 100%;
+  }
+  .background .back .back-left h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+  }
+  .background .back .back-left p {
+    font-size: 16px;
+  }
+  .background .back .back-left span {
+    justify-content: center;
+  }
+  .background .back .back-left span a {
+    height: 40px;
+    width: 120px;
+    line-height: 40px;
+  }
+  .background .back .back-right {
+    width: 100%;
+    max-width: 325px;
+    margin: 0 auto;
+  }
+  .background .back .back-right img {
+    width: 100%;
+    object-fit: cover;
+  }
+}
+@media (max-width: 480px) {
+  header .nav {
+    justify-content: center;
+  }
+  header .nav .nav-right {
+    display: none;
+  }
+}/*# sourceMappingURL=responsive.css.map */
