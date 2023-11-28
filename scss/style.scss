@@ -60,11 +60,33 @@ header{
                             line-height: 50px;
                         }
                     }
-                    .bars{
-                        display: none;
-                        font-size: 20px;
-                    }
                 }
+                span{
+                    font-size: 25px;
+                }
+            }
+        }
+    }
+}
+
+.mobile{
+    position: fixed;
+    right: 0;
+    top: 60px;
+    background-color: #daac00;
+    width: 200px;
+    display: none;
+    transition: 0.3s;
+    z-index: 999;
+    box-shadow: 0px 0px 10px white;
+    ul{
+        list-style-type: none;
+        li{
+            line-height: 3;
+            a{
+                text-decoration: none;
+                color: white;
+                padding-left:20px ;
             }
         }
     }

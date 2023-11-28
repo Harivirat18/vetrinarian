@@ -61,9 +61,31 @@ header .nav .nav-right ul li:nth-child(5) i {
   text-align: center;
   line-height: 50px;
 }
-header .nav .nav-right ul li .bars {
+header .nav .nav-right ul span {
+  font-size: 25px;
+}
+
+.mobile {
+  position: fixed;
+  right: 0;
+  top: 60px;
+  background-color: #daac00;
+  width: 200px;
   display: none;
-  font-size: 20px;
+  transition: 0.3s;
+  z-index: 999;
+  box-shadow: 0px 0px 10px white;
+}
+.mobile ul {
+  list-style-type: none;
+}
+.mobile ul li {
+  line-height: 3;
+}
+.mobile ul li a {
+  text-decoration: none;
+  color: white;
+  padding-left: 20px;
 }
 
 .background {
